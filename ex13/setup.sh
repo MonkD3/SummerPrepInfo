@@ -1,0 +1,1 @@
+echo "Il va falloir ajouter du texte à la fin de ce fichier SANS MODIFIER LE CONTENU ACTUEL !" > hell0.txt 
